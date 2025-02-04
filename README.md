@@ -25,7 +25,7 @@
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com//Pestore_Api_Testing.git
+    git clone [https://github.com//Pestore_Api_Testing.git](https://github.com/CosmicSpiderStar/Pestore_Api_Testing)
     ```
 
 2. Установите зависимости:
